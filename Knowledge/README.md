@@ -29,13 +29,14 @@ Add your detailed markdown notes and analyses under this directory:
 
 | Document / Area | Description | Status |
 |---|---|---|
-| [`01-Architecture-Overview.md`](./01-Architecture-Overview.md) | High-level system topology, request lifecycles, and service dependencies | ⬜ Planned |
-| [`02-Candidate-Sourcing.md`](./02-Candidate-Sourcing.md) | In-network vs out-of-network candidate retrieval and pipeline mechanics | ⬜ Planned |
-| [`03-Heavy-Ranker-Scoring.md`](./03-Heavy-Ranker-Scoring.md) | Transformer-based ranking, engagement probability scoring, and weights | ⬜ Planned |
-| [`04-SimClusters-Embeddings.md`](./04-SimClusters-Embeddings.md) | Community detection, topic clustering, and interest spaces | ⬜ Planned |
-| [`05-Visibility-Filtering.md`](./05-Visibility-Filtering.md) | Safety filters, abuse enforcement, bot detection, and drop rules | ⬜ Planned |
-| [`06-User-Credibility-Reputation.md`](./06-User-Credibility-Reputation.md) | `user-cred-v2`, author reputation metrics, and reach modifiers | ⬜ Planned |
-| [`07-Heuristics-Feed-Mixer.md`](./07-Heuristics-Feed-Mixer.md) | Home-mixer logic, diversity penalties, and UI interleaving | ⬜ Planned |
+| [`01-Scoring-Weights-And-Mechanics.md`](./01-Scoring-Weights-And-Mechanics.md) | Engagement weights, negative penalties, and dual-engine retrieval (Thunder & Phoenix) | ✅ Active |
+| [`02-Architecture-Overview.md`](./02-Architecture-Overview.md) | High-level system topology, request lifecycles, and service dependencies | ⬜ Planned |
+| [`03-Candidate-Sourcing.md`](./03-Candidate-Sourcing.md) | In-network vs out-of-network candidate retrieval and pipeline mechanics | ⬜ Planned |
+| [`04-Heavy-Ranker-Scoring.md`](./04-Heavy-Ranker-Scoring.md) | Transformer-based ranking, engagement probability scoring, and 20-action weights | ⬜ Planned |
+| [`05-SimClusters-Embeddings.md`](./05-SimClusters-Embeddings.md) | Community detection, topic clustering, and interest spaces | ⬜ Planned |
+| [`06-Visibility-Filtering.md`](./06-Visibility-Filtering.md) | Safety filters, abuse enforcement, bot detection, and drop rules | ⬜ Planned |
+| [`07-User-Credibility-Reputation.md`](./07-User-Credibility-Reputation.md) | `user-cred-v2`, author reputation metrics, and reach modifiers | ⬜ Planned |
+| [`08-Heuristics-Feed-Mixer.md`](./08-Heuristics-Feed-Mixer.md) | Home-mixer logic, diversity penalties, and UI interleaving | ⬜ Planned |
 
 ---
 
