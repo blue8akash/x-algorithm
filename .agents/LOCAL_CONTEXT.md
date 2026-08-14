@@ -13,7 +13,7 @@ _What is the overarching goal of this repository?_
 ## 2. Current Focus
 _What is Co-Ma (or the local agent) actively building or refactoring right now?_
 - Initial onboarding into Context-Matrix under `zOTHER-PEOPLE`.
-- Establishing local environment, tracking upstream changes, and preparing for algorithm analysis / agent workflows.
+- Curating and organizing algorithm notes and research under `Knowledge/`.
 
 ## 3. Active Blockers
 _What is stopping progress? What dependencies are missing?_
@@ -25,3 +25,4 @@ _What architectural or technical decisions were recently made that future agents
 - Placed locally in `D:\MAJOR-NODES\zOTHER-PEOPLE\x-algorithm`.
 - Upstream remote added as `https://github.com/xai-org/x-algorithm.git`.
 - Standard Agent Development Kit (ADK v8) and bi-directional Context-Matrix node link installed.
+- Created `Knowledge/` directory with structured breakdown for research notes and algorithmic analysis.
